@@ -8,9 +8,9 @@
 <img width="1074" alt="project1_03" src="https://user-images.githubusercontent.com/91987208/167112765-4f0f9f05-f87b-4264-8106-0fc18aeac010.png">
 
 # Project 3
-##### This is a piece from my undergraduate days, inspired by the conversational relationship I have with my father in our daily lives. Due to a mutual lack of understanding of each other, my conversations with my father were always full of awkwardness and at a certain point we could not continue. In this model, the '进' character represents the phrases that move the conversation forward, while the '退' character represents my father and I's feelings of constant self-concession.
+##### This is a piece from my undergraduate days, inspired by the conversational relationship I have with my father in our daily lives. 
 ![project2_01 png](https://user-images.githubusercontent.com/91987208/167114821-128b6590-19da-4333-8102-55ad1c0bac93.JPG)
-##### As participants began to play with my model of dialogue, unconsciously they began to repeat some of the inequivalent relationships in my dialogue with my father.
+##### As participants began to play with my model of dialogue, unconsciously they began to repeat some of the relationships in my dialogue with my father.
 ![project2_02 png](https://user-images.githubusercontent.com/91987208/167115299-1dd77d77-0d1b-487f-94df-0c4c888e41e6.png)
 ##### This project was later transformed into a more complete installation, which is used to help people with aphasia to exchange information with the outside world by means of language.
 ![5](https://user-images.githubusercontent.com/91987208/167115586-4f6f7300-1a2d-4288-8fc0-095a05f3dc00.jpg)
